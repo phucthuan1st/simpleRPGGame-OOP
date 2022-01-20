@@ -3,7 +3,7 @@
 ## Introduction:
 ### About me:
 * Name: Nguyen Phuc Thuan
-* Contact: [Email](phucthuan.work@gmail.com), [Facebook](https://www.facebook.com/phucthuan95), [Instagram](https://www.instagram.com/_phuc_thuan_/), [Github](https://github.com/phucthuan1st)
+* Contact: [Email](phucthuan.work@gmail.com), [Facebook](https://www.facebook.com/phucthuan95), [Instagram](https://www.instagram.com/_phuc_thuan_/), [Github](https://github.com/phucthuan1st), [LinkedIn](https://www.linkedin.com/in/phuc-thuan-IT)
 * University Of Science
 * Computer Sercurity, Computer Networking Engineering
 
